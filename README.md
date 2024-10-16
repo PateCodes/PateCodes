@@ -18,5 +18,5 @@
 - 💬 Ask me about ...Software development and Linux system management.
 - 📫 How to reach me: ...pmwania309@gmail.com.
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I love coding, traveling, and good music, and I find a heavy breakfast on Mondays really motivating!
 -->
