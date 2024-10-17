@@ -1,4 +1,4 @@
-## Hi there 👋 I am Patric,A passionate software developer driven by continuous learning, innovation, and problem-solving, aiming to become a tech leader while building scalable solutions and living life with purpose.
+## Hi there 👋 I am Patric, A passionate software developer driven by continuous learning, innovation, and problem-solving, aiming to become a tech leader while building scalable solutions and living life with purpose.
 
 - 🔭 I’m currently working on ... Leveraging cloud     technologies and Linux systems to build scalable solutions.
 - 🌱 I’m currently learning ... Linux essentials, advanced Python, and cloud-based systems.
